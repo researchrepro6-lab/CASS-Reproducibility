@@ -1,0 +1,12 @@
+# Python 3.10-3.14 (64-bit). Tested with the oldest and newest versions noted in README.md;
+# exact versions of the reference run: requirements-exact.txt
+numpy>=1.26
+scipy>=1.11
+jax>=0.4.30
+jaxlib>=0.4.30
+cvxpy>=1.4
+clarabel>=0.7
+matplotlib>=3.7
+# only for scripts/extract_cass_subset.py (reading the original 458 MB NetCDF file):
+# xarray
+# netCDF4

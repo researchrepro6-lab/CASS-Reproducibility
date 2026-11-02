@@ -1,0 +1,84 @@
+LOW 501.6s
+  nominal            dMean +0.0000 dStd +0.0000 dP95 +0.0000 exceed 0.13 |x| 0.00
+  mean-box           dMean -0.0851 dStd -0.0009 dP95 -0.0862 exceed 0.04 |x| 2.00
+  mean-dir           dMean -0.0932 dStd -0.0007 dP95 -0.0940 exceed 0.04 |x| 1.27
+  CASS-1 (b=1.645)   dMean -0.0851 dStd -0.0009 dP95 -0.0862 exceed 0.04 |x| 2.00
+  CASS-1 (b=2b*)     dMean -0.0838 dStd -0.0008 dP95 -0.0849 exceed 0.04 |x| 1.97
+  CASS-1 (b=5b*)     dMean -0.0130 dStd -0.0004 dP95 -0.0134 exceed 0.14 |x| 1.59
+  mean-2             dMean -0.1030 dStd -0.0007 dP95 -0.1039 exceed 0.04 |x| 1.58
+  CASS-2 (b=1.645)   dMean -0.1030 dStd -0.0007 dP95 -0.1039 exceed 0.04 |x| 1.57
+  SAA                dMean -0.1030 dStd -0.0007 dP95 -0.1039 exceed 0.04 |x| 1.58
+  CVaR-0.9           dMean -0.1030 dStd -0.0007 dP95 -0.1039 exceed 0.04 |x| 1.60
+HIGH 404.3s
+  nominal            dMean +0.0000 dStd +0.0000 dP95 +0.0000 exceed 0.14 |x| 0.00
+  mean-box           dMean -0.0843 dStd -0.0037 dP95 -0.0882 exceed 0.06 |x| 2.00
+  mean-dir           dMean -0.0916 dStd -0.0033 dP95 -0.0948 exceed 0.06 |x| 1.26
+  CASS-1 (b=1.645)   dMean -0.0843 dStd -0.0037 dP95 -0.0882 exceed 0.06 |x| 2.00
+  CASS-1 (b=2b*)     dMean -0.0368 dStd -0.0010 dP95 -0.0377 exceed 0.09 |x| 1.74
+  CASS-1 (b=5b*)     dMean +0.0167 dStd +0.0002 dP95 +0.0167 exceed 0.17 |x| 1.42
+  mean-2             dMean -0.1018 dStd -0.0039 dP95 -0.1057 exceed 0.06 |x| 1.58
+  CASS-2 (b=1.645)   dMean -0.1018 dStd -0.0039 dP95 -0.1057 exceed 0.06 |x| 1.54
+  SAA                dMean -0.1018 dStd -0.0039 dP95 -0.1057 exceed 0.06 |x| 1.58
+  CVaR-0.9           dMean -0.1018 dStd -0.0039 dP95 -0.1057 exceed 0.06 |x| 1.61
+t 0
+t 1
+t 2
+t 3
+t 4
+t 5
+t 6
+t 7
+t 8
+t 9
+t 10
+t 11
+t 12
+t 13
+t 14
+t 15
+t 16
+t 17
+t 18
+t 19
+t 20
+t 21
+t 22
+t 23
+t 24
+t 25
+t 26
+t 27
+t 28
+t 29
+t 30
+t 31
+t 32
+t 33
+t 34
+t 35
+t 36
+t 37
+t 38
+t 39
+t 40
+t 41
+t 42
+t 43
+t 44
+t 45
+t 46
+t 47
+t 48
+t 49
+t 50
+t 51
+t 52
+t 53
+t 54
+t 55
+t 56
+t 57
+t 58
+t 59
+t 60
+t 61

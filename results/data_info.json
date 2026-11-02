@@ -1,0 +1,49 @@
+{
+  "n_times": 62,
+  "n_members": 50,
+  "grid_spacing_deg": 0.5,
+  "low_time": "2022-07-16T12:00:00",
+  "low_spread": 0.3657941520214081,
+  "high_time": "2022-07-24T00:00:00",
+  "high_spread": 1.0128397941589355,
+  "min_spread": 0.34034809470176697,
+  "max_spread": 1.0182868242263794,
+  "median_spread": 0.5883222222328186,
+  "locations": [
+    {
+      "name": "Arabian Sea",
+      "lat": 15.0,
+      "lon": 65.0
+    },
+    {
+      "name": "Equatorial Indian Ocean",
+      "lat": 2.5,
+      "lon": 75.0
+    },
+    {
+      "name": "Thar Desert",
+      "lat": 27.5,
+      "lon": 70.0
+    },
+    {
+      "name": "Bay of Bengal",
+      "lat": 15.0,
+      "lon": 87.5
+    },
+    {
+      "name": "Tibetan Plateau",
+      "lat": 30.0,
+      "lon": 90.0
+    },
+    {
+      "name": "Indochina",
+      "lat": 15.0,
+      "lon": 105.0
+    },
+    {
+      "name": "South China Sea",
+      "lat": 10.0,
+      "lon": 115.0
+    }
+  ]
+}

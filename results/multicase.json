@@ -1,0 +1,59 @@
+{
+  "site": {
+    "n": 62,
+    "spearman_lam1_detSw": 0.6331998690539146,
+    "spearman_lam1_trSw": 0.662259827251895,
+    "spearman_lam1_spread": 0.6610510941552719,
+    "spearman_fro_spread": 0.6754047996776712,
+    "spearman_hidden_spread": 0.6663393014529979,
+    "spearman_Jstd_lam1": 0.7746216413588175,
+    "prop2_err_median": 0.3432795127124254,
+    "prop2_err_p95": 0.9600454121194995,
+    "prop2_err_max": 0.9892062902314015,
+    "top2_share_min": 0.9999316541385256,
+    "rho_hidden_median": 0.6593410314101869,
+    "rho_hidden_range": [
+      0.12886443059608127,
+      0.9997513929415723
+    ],
+    "kappa_hidden_median": 0.015925702937773255,
+    "kappa_hidden_p95": 0.039216649609701996,
+    "eps_linfit_median": 0.1117647076603622,
+    "eps_drag_median": 0.011544203973219345,
+    "eps_drag_p95": 0.15339203052859623,
+    "loo_r2_drag_median": 0.9837216006575052,
+    "spearman_prop2_ratio": 0.6732895167585807,
+    "frac_ratio_gt_half": 0.7903225806451613,
+    "prop2_err_median_ratio_lt_02": NaN,
+    "n_ratio_lt_02": 0
+  },
+  "all": {
+    "n": 1984,
+    "spearman_lam1_detSw": 0.8331817959153167,
+    "spearman_lam1_trSw": 0.8443505900544651,
+    "spearman_lam1_spread": 0.8422120413618954,
+    "spearman_fro_spread": 0.8465355912228837,
+    "spearman_hidden_spread": 0.8471967772421313,
+    "spearman_Jstd_lam1": 0.9018351993201661,
+    "prop2_err_median": 0.20012620811971987,
+    "prop2_err_p95": 0.9210715182253219,
+    "prop2_err_max": 1.8323108003216704,
+    "top2_share_min": 0.9985779848383729,
+    "rho_hidden_median": 0.6233698072408058,
+    "rho_hidden_range": [
+      0.022252031499235287,
+      0.9999996632762251
+    ],
+    "kappa_hidden_median": 0.011371456801823913,
+    "kappa_hidden_p95": 0.1903620296440752,
+    "eps_linfit_median": 0.0632528466617725,
+    "eps_drag_median": 0.009073951396439284,
+    "eps_drag_p95": 0.18925605732167974,
+    "loo_r2_drag_median": 0.9843656845664341,
+    "spearman_prop2_ratio": 0.7916358622517448,
+    "frac_ratio_gt_half": 0.4254032258064516,
+    "prop2_err_median_ratio_lt_02": 0.030624221655294933,
+    "n_ratio_lt_02": 318
+  },
+  "loglog_lam1_trSw_slope": 1.8093186855945314
+}
