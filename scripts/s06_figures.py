@@ -1,4 +1,4 @@
-"""Step 6 - all manuscript figures (600-dpi PNG, IEEE column widths)."""
+"""Step 6 - all manuscript figures (600-dpi PNG, journal column widths)."""
 import os
 import re
 import shutil
@@ -18,7 +18,7 @@ from matplotlib.ticker import NullFormatter
 
 from cass import io, model as M
 
-COL1, COL2 = 3.5, 7.16           # IEEE single / double column width (in)
+COL1, COL2 = 3.5, 7.16           # single / double column width (in)
 BLUE, VERM, GREEN, PURP = "#0072B2", "#D55E00", "#009E73", "#7A5195"
 CASE_STYLE = {"LOW": dict(color=BLUE, marker="o"), "HIGH": dict(color=VERM, marker="s")}
 plt.rcParams.update({
